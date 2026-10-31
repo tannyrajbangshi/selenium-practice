@@ -1,0 +1,16 @@
+{
+  "name": "batch21",
+  "version": "1.0.0",
+  "description": "This is selenium project",
+  "license": "ISC",
+  "author": "Tanny Rajbangshi",
+  "type": "module",
+  "main": "base.js",
+  "scripts": {
+    "test": "node base.js"
+  },
+  "dependencies": {
+    "selenium-webdriver": "^4.51.0"
+  },
+  "keywords": []
+}
